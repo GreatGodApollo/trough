@@ -2,7 +2,7 @@
 
 Trough is a [scoop](https://github.com/lukesampson/scoop) application bucket.
 
-Since this bucket isn't known by scoop you'll probably want to add using the link to this repository.
+Since this bucket isn't known by scoop you'll probably want to add it to your machine using the link to this repository.
 
 ```
 $ scoop bucket add trough https://github.com/GreatGodApollo/trough.git
