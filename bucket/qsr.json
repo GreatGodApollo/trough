@@ -5,11 +5,11 @@
     "license": "AGPL-3.0",
     "architecture": {
       "32bit": {
-        "url": "https://github.com/GreatGodApollo/qsr/releases/download/v1.0.0/qsr_v1.0.0_windows_386.tar.gz",
+        "url": "https://github.com/GreatGodApollo/qsr/releases/download/v1.1.0/qsr_v1.1.0_windows_386.tar.gz",
         "hash": "md5:acd360867361c4a91fb6bef76479b8ed"
       },
       "64bit": {
-        "url": "https://github.com/GreatGodApollo/qsr/releases/download/v1.0.0/qsr_v1.0.0_windows_amd64.tar.gz",
+        "url": "https://github.com/GreatGodApollo/qsr/releases/download/v1.1.0/qsr_v1.1.0_windows_amd64.tar.gz",
         "hash": "md5:10b028bb17b423d9452e237912237700"
       }
     },
