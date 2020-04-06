@@ -6,11 +6,11 @@
     "architecture": {
       "32bit": {
         "url": "https://github.com/GreatGodApollo/qsr/releases/download/v1.1.0/qsr_v1.1.0_windows_386.tar.gz",
-        "hash": "md5:acd360867361c4a91fb6bef76479b8ed"
+        "hash": "md5:6e7425e17efc68f1f8ee4505dd4f7e6c"
       },
       "64bit": {
         "url": "https://github.com/GreatGodApollo/qsr/releases/download/v1.1.0/qsr_v1.1.0_windows_amd64.tar.gz",
-        "hash": "md5:10b028bb17b423d9452e237912237700"
+        "hash": "md5:3d8a37830950e18cbd1010b071061ec9"
       }
     },
     "bin": "qsr.exe"
