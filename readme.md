@@ -26,4 +26,5 @@ $ scoop bucket add trough https://github.com/GreatGodApollo/trough.git
 
 | Package       | Homepage      | License       | Version        |
 | :-----------: | :-----------: | :-----------: | :------------: |
-| QSR | [@greatgodapollo/qsr](https://github.com/GreatGodApollo/trough) | AGPL-3.0 | 1.1.0 |
+| QGR | [@greatgodapollo/qgr](https://github.com/GreatGodApollo/qgr) | MIT | 1.0.0 |
+| QSR | [@greatgodapollo/qsr](https://github.com/GreatGodApollo/qsr) | AGPL-3.0 | 1.1.0 |

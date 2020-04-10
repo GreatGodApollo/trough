@@ -1,0 +1,17 @@
+{
+    "version": "1.0.0",
+    "description": "A quick and easy way to start your git repos",
+    "homepage": "https://github.com/GreatGodApollo/qgr/",
+    "license": "MIT",
+    "architecture": {
+      "32bit": {
+        "url": "https://github.com/GreatGodApollo/qgr/releases/download/v1.0.0/qgr_v1.0.0_windows_386.tar.gz",
+        "hash": "md5:15565224aabcdf857d0d15340a29e50c"
+      },
+      "64bit": {
+        "url": "https://github.com/GreatGodApollo/qgr/releases/download/v1.0.0/qgr_v1.0.0_windows_amd64.tar.gz",
+        "hash": "md5:00d8cc94edfdde63688f95e2995a9492"
+      }
+    },
+    "bin": "qgr.exe"
+  }
