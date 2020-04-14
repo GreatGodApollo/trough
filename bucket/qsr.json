@@ -1,16 +1,16 @@
 {
-    "version": "1.1.0",
+    "version": "1.2.0",
     "description": "A quick and easy way to run scripts hosted in GitHub Gists",
     "homepage": "https://github.com/GreatGodApollo/qsr/",
     "license": "AGPL-3.0",
     "architecture": {
       "32bit": {
-        "url": "https://github.com/GreatGodApollo/qsr/releases/download/v1.1.0/qsr_v1.1.0_windows_386.tar.gz",
-        "hash": "md5:6e7425e17efc68f1f8ee4505dd4f7e6c"
+        "url": "https://github.com/GreatGodApollo/qsr/releases/download/v1.2.0/qsr_v1.2.0_windows_386.tar.gz",
+        "hash": "md5:4c842a149b1bf8afe462273f983faa7b"
       },
       "64bit": {
-        "url": "https://github.com/GreatGodApollo/qsr/releases/download/v1.1.0/qsr_v1.1.0_windows_amd64.tar.gz",
-        "hash": "md5:3d8a37830950e18cbd1010b071061ec9"
+        "url": "https://github.com/GreatGodApollo/qsr/releases/download/v1.2.0/qsr_v1.2.0_windows_amd64.tar.gz",
+        "hash": "md5:9ce374e11c4f79ee3099d8f5751cb771"
       }
     },
     "bin": "qsr.exe"
