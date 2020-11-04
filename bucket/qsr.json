@@ -1,17 +1,17 @@
 {
-    "version": "1.1.0",
-    "description": "A quick and easy way to run scripts hosted in GitHub Gists",
-    "homepage": "https://github.com/GreatGodApollo/qsr/",
-    "license": "AGPL-3.0",
-    "architecture": {
-      "32bit": {
-        "url": "https://github.com/GreatGodApollo/qsr/releases/download/v1.1.0/qsr_v1.1.0_windows_386.tar.gz",
-        "hash": "md5:6e7425e17efc68f1f8ee4505dd4f7e6c"
-      },
-      "64bit": {
-        "url": "https://github.com/GreatGodApollo/qsr/releases/download/v1.1.0/qsr_v1.1.0_windows_amd64.tar.gz",
-        "hash": "md5:3d8a37830950e18cbd1010b071061ec9"
-      }
+  "version": "1.1.0",
+  "description": "A quick and easy way to run scripts hosted in GitHub Gists",
+  "homepage": "https://github.com/GreatGodApollo/qsr/",
+  "license": "AGPL-3.0",
+  "architecture": {
+    "32bit": {
+      "url": "https://github.com/GreatGodApollo/qsr/releases/download/v1.1.0/qsr_v1.1.0_windows_386.tar.gz",
+      "hash": "md5:6e7425e17efc68f1f8ee4505dd4f7e6c"
     },
-    "bin": "qsr.exe"
-  }
+    "64bit": {
+      "url": "https://github.com/GreatGodApollo/qsr/releases/download/v1.1.0/qsr_v1.1.0_windows_amd64.tar.gz",
+      "hash": "md5:3d8a37830950e18cbd1010b071061ec9"
+    }
+  },
+  "bin": "qsr.exe"
+}

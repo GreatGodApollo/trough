@@ -1,0 +1,17 @@
+{
+  "version": "0.5.0",
+  "description": "A quick and easy way to run scripts hosted in GitHub Gists",
+  "homepage": "https://github.com/GreatGodApollo/lunar/",
+  "license": "MIT",
+  "architecture": {
+    "32bit": {
+      "url": "https://github.com/GreatGodApollo/lunar/releases/download/v0.5.0/lunar_v0.5.0_windows_386.tar.gz",
+      "hash": "md5:05039ce6c023fa292125b6c87df89239"
+    },
+    "64bit": {
+      "url": "https://github.com/GreatGodApollo/lunar/releases/download/v0.5.0/lunar_v0.5.0_windows_amd64.tar.gz",
+      "hash": "md5:dab902d33ed5c85d3e2bce108e5cab14"
+    }
+  },
+  "bin": "lunar.exe"
+}
