@@ -24,8 +24,9 @@ $ scoop bucket add trough https://github.com/GreatGodApollo/trough.git
 
 ## Packages
 
-| Package |                             Homepage                             | License  | Version |
-| :-----: | :--------------------------------------------------------------: | :------: | :-----: |
-|  lunar  | [@greatgodapollo/lunar](https://github.com/GreatGodApollo/lunar) |   MIT    |  0.5.0  |
-|   QGR   |   [@greatgodapollo/qgr](https://github.com/GreatGodApollo/qgr)   |   MIT    |  1.1.1  |
-|   QSR   |   [@greatgodapollo/qsr](https://github.com/GreatGodApollo/qsr)   | AGPL-3.0 |  1.2.0  |
+| Package |                              Homepage                              | License  | Version |
+| :-----: | :----------------------------------------------------------------: | :------: | :-----: |
+|  lunar  |  [@greatgodapollo/lunar](https://github.com/GreatGodApollo/lunar)  |   MIT    |  0.5.0  |
+| genday  | [@greatgodapollo/genday](https://github.com/GreatGodApollo/genday) |   MIT    |  0.4.0  |
+|   QGR   |    [@greatgodapollo/qgr](https://github.com/GreatGodApollo/qgr)    |   MIT    |  1.1.1  |
+|   QSR   |    [@greatgodapollo/qsr](https://github.com/GreatGodApollo/qsr)    | AGPL-3.0 |  1.2.0  |
